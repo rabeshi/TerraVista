@@ -1,4 +1,8 @@
-# Redirect .html URLs to clean URLs (optional)
+
+# Serve index.html for root
+/ /index.html 200
+
+# Redirect .html URLs to clean URLs
 /*.html /:splat 301
 
 # Match all clean URLs and serve corresponding .html files
