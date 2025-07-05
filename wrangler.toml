@@ -1,0 +1,7 @@
+
+name = "zyd-terrat-vista"
+compatibility_date = "2024-01-15"
+
+[site]
+bucket = "./"
+entry-point = "workers-site"
