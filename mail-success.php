@@ -76,7 +76,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 <h2>Your Mail Sent Successfully!</h2>
                                 <p>Thank you for contacting with us, We will send you feedback as soon as possible.</p>
                                 <div class="button">
-                                    <a href="index-2.html" class="btn mouse-dir white-bg">Go Homepage <span class="dir-part"></span></a>
+                                    <a href="index.html" class="btn mouse-dir white-bg">Go Homepage <span class="dir-part"></span></a>
                                 </div>
                             </div>
                             <!--/ End Success Text -->
